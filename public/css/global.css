@@ -1,0 +1,45 @@
+* {
+    margin: 0 10rem;
+    padding: 0;
+    box-sizing: border-box;
+
+    background-color: antiquewhite;
+
+    text-align: center;
+    text-decoration: none;
+}
+
+body {
+    margin-top: 4em;
+    border: 3px solid white;
+
+    min-height: 30rem;
+}
+
+ul,
+li {
+    list-style: none;
+    text-decoration: none;
+}
+
+h1 {
+    color: blue;
+    padding: 2em;
+}
+
+h2 {
+    color: burlywood;
+
+    font-style: italic;
+
+    margin-bottom: 1rem;
+}
+
+p {
+    color: grey;
+    margin: .75rem 0;
+}
+
+a {
+    color: red;
+}
