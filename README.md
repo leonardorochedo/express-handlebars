@@ -1,2 +1,3 @@
-# express_handlebars
+# Express & Handlebars
+
 Colocando em prática o Express do NodeJS juntamente com Handlebars ✓
